@@ -17,5 +17,3 @@ Before pushing any changes to Git, first execute the following in the terminal (
 pip freeze > requirements.txt
 ```
 
-## Contributing
-TODO
