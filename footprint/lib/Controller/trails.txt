@@ -1,0 +1,134 @@
+[
+{'trails': [
+
+{
+	'id': 7070537, 'name': "Myburgh's Waterfall Ravine", 
+	'type': 'Recommended Route', 
+	'summary': 'The most important reason for doing this route year after year is to go and view the Disas.', 
+	'difficulty': 'black', 
+	'stars': 5, 
+	'starVotes': 1, 
+	'location': 'Constantia, South Africa', 
+	'url': 'https://www.hikingproject.com/trail/7070537/myburghs-waterfall-ravine', 
+	'imgSqSmall': 'https://cdn2.apstatic.com/photos/hike/7055632_sqsmall_1555709594.jpg', 
+	'imgSmall': 'https://cdn2.apstatic.com/photos/hike/7055632_small_1555709594.jpg', 
+	'imgSmallMed': 'https://cdn2.apstatic.com/photos/hike/7055632_smallMed_1555709594.jpg', 
+	'imgMedium': 'https://cdn2.apstatic.com/photos/hike/7055632_medium_1555709594.jpg', 
+	'length': 1.3, 
+	'ascent': 936, 
+	'descent': -936, 
+	'high': 1437, 
+	'low': 501, 
+	'longitude': 18.3788, 
+	'latitude': -34.0097, 
+	'conditionStatus': 'Unknown', 
+	'conditionDetails': None, 
+	'conditionDate': '1970-01-01 00:00:00'
+}, 
+
+{
+    'id': 7036008,
+    'name': 'Jonkershoek Magic',
+    'type': 'Recommended Route',
+    'summary': 'A wonderful tour of the southwestern slopes of Jonkershoek singletrack.',
+    'difficulty': 'blueBlack', 'stars': 4.7, 'starVotes': 3, 'location': 'Stellenbosch, South Africa',
+    'url': 'https://www.hikingproject.com/trail/7036008/jonkershoek-magic',
+    'imgSqSmall': 'https://cdn2.apstatic.com/photos/hike/7036252_sqsmall_1555021987.jpg',
+    'imgSmall': 'https://cdn2.apstatic.com/photos/hike/7036252_small_1555021987.jpg',
+    'imgSmallMed': 'https://cdn2.apstatic.com/photos/hike/7036252_smallMed_1555021987.jpg',
+    'imgMedium': 'https://cdn2.apstatic.com/photos/hike/7036252_medium_1555021987.jpg',
+    'length': 11.1,
+    'ascent': 1710,
+    'descent': -1710,
+    'high': 1862,
+    'low': 807,
+    'longitude': 18.9347,
+    'latitude': -33.9687,
+    'conditionStatus': 'Unknown',
+    'conditionDetails': None,
+    'conditionDate': '1970-01-01 00:00:00'
+},
+
+{
+    'id': 7040512,
+    'name': 'Swartboskloof',
+    'type': 'Trail',
+    'summary': 'A long, steep climb up an isolated gorge.',
+    'difficulty': 'black',
+    'stars': 5, 'starVotes': 2,
+    'location': 'Stellenbosch, South Africa',
+    'url': 'https://www.hikingproject.com/trail/7040512/swartboskloof',
+    'imgSqSmall': '',
+    'imgSmall': '',
+    'imgSmallMed': '',
+    'imgMedium': '',
+    'length': 1.7,
+    'ascent': 1832,
+    'descent': 0,
+    'high': 3670,
+    'low': 1837,
+    'longitude': 18.9613,
+    'latitude': -33.9996,
+    'conditionStatus': 'Unknown',
+    'conditionDetails': None,
+    'conditionDate': '1970-01-01 00:00:00'
+},
+
+{'id': 7037623, 'name': 'Stellenboschberg to Assegaaibosch', 'type': 'Trail', 'summary': 'A challenging mountain traverse, starting at Paradyskloof in Stellenbosch and ending at Assegaaibosch in Jonkershoek.', 'difficulty': 'black', 'stars': 5, 'starVotes': 1, 'location': 'Stellenbosch, South Africa', 'url': 'https://www.hikingproject.com/trail/7037623/stellenboschberg-to-assegaaibosch', 'imgSqSmall': 'https://cdn2.apstatic.com/photos/hike/7037499_sqsmall_1555086165.jpg', 'imgSmall': 'https://cdn2.apstatic.com/photos/hike/7037499_small_1555086165.jpg', 'imgSmallMed': 'https://cdn2.apstatic.com/photos/hike/7037499_smallMed_1555086165.jpg', 'imgMedium': 'https://cdn2.apstatic.com/photos/hike/7037499_medium_1555086165.jpg', 'length': 3.4, 'ascent': 2447, 'descent': -2555, 'high': 3540, 'low': 984, 'longitude': 18.8825, 'latitude': -33.9764, 'conditionStatus': 'Unknown', 'conditionDetails': None, 'conditionDate': '1970-01-01 00:00:00'}, 
+
+{'id': 7040511, 'name': 'Panorama Trail: Kurktrekker to Swartboskloof', 'type': 'Trail', 'summary': 'A singletrack that heads through beautiful fynbos connecting the top of Kurktrekker to the top of Swartboskloof.', 'difficulty': 'black', 'stars': 5, 'starVotes': 1, 'location': 'Grabouw, South Africa', 'url': 'https://www.hikingproject.com/trail/7040511/panorama-trail-kurktrekker-to-swartboskloof', 'imgSqSmall': '', 'imgSmall': '', 'imgSmallMed': '', 'imgMedium': '', 'length': 2.6, 'ascent': 599, 'descent': -323, 'high': 3801, 'low': 3404, 'longitude': 19.0005, 'latitude': -34.0113, 'conditionStatus': 'Unknown', 'conditionDetails': None, 'conditionDate': '1970-01-01 00:00:00'}, 
+
+{'id': 7036743, 'name': 'Platteklip Gorge', 'type': 'Trail', 'summary': 'The most direct, and probably most popular, route to ascend Table Mountain.', 'difficulty': 'black', 'stars': 4, 'starVotes': 2, 'location': 'Cape Town, South Africa', 'url': 'https://www.hikingproject.com/trail/7036743/platteklip-gorge', 'imgSqSmall': 'https://cdn2.apstatic.com/photos/hike/7059280_sqsmall_1559948518.jpg', 'imgSmall': 'https://cdn2.apstatic.com/photos/hike/7059280_small_1559948518.jpg', 'imgSmallMed': 'https://cdn2.apstatic.com/photos/hike/7059280_smallMed_1559948518.jpg', 'imgMedium': 'https://cdn2.apstatic.com/photos/hike/7059280_medium_1559948518.jpg', 'length': 1, 'ascent': 1799, 'descent': -8, 'high': 3478, 'low': 1679, 'longitude': 18.4167, 'latitude': -33.958, 'conditionStatus': 'Unknown', 'conditionDetails': None, 'conditionDate': '1970-01-01 00:00:00'}, 
+
+{'id': 7036523, 'name': 'Contour Path', 'type': 'Trail', 'summary': 'A trail from Constantia Nek to Kloof Nek following the 400m contour of Table Mountain', 'difficulty': 'blue', 'stars': 4, 'starVotes': 1, 'location': 'Constantia, South Africa', 'url': 'https://www.hikingproject.com/trail/7036523/contour-path', 'imgSqSmall': 'https://cdn2.apstatic.com/photos/hike/7059275_sqsmall_1559948098.jpg', 'imgSmall': 'https://cdn2.apstatic.com/photos/hike/7059275_small_1559948098.jpg', 'imgSmallMed': 'https://cdn2.apstatic.com/photos/hike/7059275_smallMed_1559948098.jpg', 'imgMedium': 'https://cdn2.apstatic.com/photos/hike/7059275_medium_1559948098.jpg', 'length': 10.9, 'ascent': 3676, 'descent': -2931, 'high': 1761, 'low': 849, 'longitude': 18.4063, 'latitude': -34.0094, 'conditionStatus': 'Unknown', 'conditionDetails': None, 'conditionDate': '1970-01-01 00:00:00'}, 
+
+{'id': 7036442, 'name': 'The Aqueduct', 'type': 'Trail', 'summary': 'A beautiful gorge on Table Mountain', 'difficulty': 'blue', 'stars': 4, 'starVotes': 1, 'location': 'Newlands, South Africa', 'url': 'https://www.hikingproject.com/trail/7036442/the-aqueduct', 'imgSqSmall': '', 'imgSmall': '', 'imgSmallMed': '', 'imgMedium': '', 'length': 0.8, 'ascent': 330, 'descent': -9, 'high': 2802, 'low': 2474, 'longitude': 18.4077, 'latitude': -33.9748, 'conditionStatus': 'Unknown', 'conditionDetails': None, 'conditionDate': '1970-01-01 00:00:00'}, 
+
+{'id': 7081684, 'name': 'Newlands Ravine Trail', 'type': 'Trail', 'summary': "Steep and forested and not as popular as some of the other nearby ascents of Table Mountain and Devil's Peak.", 'difficulty': 'black', 'stars': 4, 'starVotes': 1, 'location': 'Newlands, South Africa', 'url': 'https://www.hikingproject.com/trail/7081684/newlands-ravine-trail', 'imgSqSmall': 'https://cdn2.apstatic.com/photos/hike/7059279_sqsmall_1559948332.jpg', 'imgSmall': 'https://cdn2.apstatic.com/photos/hike/7059279_small_1559948332.jpg', 'imgSmallMed': 'https://cdn2.apstatic.com/photos/hike/7059279_smallMed_1559948332.jpg', 'imgMedium': 'https://cdn2.apstatic.com/photos/hike/7059279_medium_1559948332.jpg', 'length': 0.7, 'ascent': 1217, 'descent': 0, 'high': 2471, 'low': 1254, 'longitude': 18.4385, 'latitude': -33.9633, 'conditionStatus': 'Unknown', 'conditionDetails': None, 'conditionDate': '1970-01-01 00:00:00'}, 
+
+{'id': 7037671, 'name': 'Swartboskloof Loop Trail', 'type': 'Trail', 'summary': 'An easy singletrack route with beautiful wildflowers, river crossings, and mountain gorges.', 'difficulty': 'blue', 'stars': 4, 'starVotes': 1, 'location': 'Stellenbosch, South Africa', 'url': 'https://www.hikingproject.com/trail/7037671/swartboskloof-loop-trail', 'imgSqSmall': 'https://cdn2.apstatic.com/photos/hike/7036252_sqsmall_1555021987.jpg', 'imgSmall': 'https://cdn2.apstatic.com/photos/hike/7036252_small_1555021987.jpg', 'imgSmallMed': 'https://cdn2.apstatic.com/photos/hike/7036252_smallMed_1555021987.jpg', 'imgMedium': 'https://cdn2.apstatic.com/photos/hike/7036252_medium_1555021987.jpg', 'length': 2.3, 'ascent': 874, 'descent': -106, 'high': 1854, 'low': 1082, 'longitude': 18.9554, 'latitude': -33.9879, 'conditionStatus': 'Unknown', 'conditionDetails': None, 'conditionDate': '1970-01-01 00:00:00'}], 'success': 1},
+
+ {'trails': [], 'success': 1}, 
+
+{'trails': 
+[
+
+{'id': 7015094, 'name': 'Ribbok Trail', 'type': 'Trail', 'summary': 'The flagship trail in Golden Gate Highlands.', 'difficulty': 'black', 'stars': 5, 'starVotes': 1, 'location': 'Phuthaditjhaba, South Africa', 'url': 'https://www.hikingproject.com/trail/7015094/ribbok-trail', 'imgSqSmall': 'https://cdn2.apstatic.com/photos/hike/7012191_sqsmall_1554560791.jpg', 'imgSmall': 'https://cdn2.apstatic.com/photos/hike/7012191_small_1554560791.jpg', 'imgSmallMed': 'https://cdn2.apstatic.com/photos/hike/7012191_smallMed_1554560791.jpg', 'imgMedium': 'https://cdn2.apstatic.com/photos/hike/7012191_medium_1554560791.jpg', 'length': 17.1, 'ascent': 3477, 'descent': -3474, 'high': 8398, 'low': 5969, 'longitude': 28.6187, 'latitude': -28.5064, 'conditionStatus': 'Unknown', 'conditionDetails': None, 'conditionDate': '1970-01-01 00:00:00'}, 
+
+
+{'id': 7015906, 'name': 'Wodehouse Trail', 'type': 'Trail', 'summary': 'Adopt me, please!', 'difficulty': 'black', 'stars': 5, 'starVotes': 1, 'location': 'Phuthaditjhaba, South Africa', 'url': 'https://www.hikingproject.com/trail/7015906/wodehouse-trail', 'imgSqSmall': 'https://cdn2.apstatic.com/photos/hike/7013392_sqsmall_1554822556.jpg', 'imgSmall': 'https://cdn2.apstatic.com/photos/hike/7013392_small_1554822556.jpg', 'imgSmallMed': 'https://cdn2.apstatic.com/photos/hike/7013392_smallMed_1554822556.jpg', 'imgMedium': 'https://cdn2.apstatic.com/photos/hike/7013392_medium_1554822556.jpg', 'length': 3.6, 'ascent': 1700, 'descent': -1360, 'high': 7860, 'low': 6385, 'longitude': 28.6201, 'latitude': -28.5044, 'conditionStatus': 'Unknown', 'conditionDetails': None, 'conditionDate': '1970-01-01 00:00:00'}], 'success': 1}, 
+
+{'trails': 
+
+[
+
+{'id': 7015094, 'name': 'Ribbok Trail', 'type': 'Trail', 'summary': 'The flagship trail in Golden Gate Highlands.', 'difficulty': 'black', 'stars': 5, 'starVotes': 1, 'location': 'Phuthaditjhaba, South Africa', 'url': 'https://www.hikingproject.com/trail/7015094/ribbok-trail', 'imgSqSmall': 'https://cdn2.apstatic.com/photos/hike/7012191_sqsmall_1554560791.jpg', 'imgSmall': 'https://cdn2.apstatic.com/photos/hike/7012191_small_1554560791.jpg', 'imgSmallMed': 'https://cdn2.apstatic.com/photos/hike/7012191_smallMed_1554560791.jpg', 'imgMedium': 'https://cdn2.apstatic.com/photos/hike/7012191_medium_1554560791.jpg', 'length': 17.1, 'ascent': 3477, 'descent': -3474, 'high': 8398, 'low': 5969, 'longitude': 28.6187, 'latitude': -28.5064, 'conditionStatus': 'Unknown', 'conditionDetails': None, 'conditionDate': '1970-01-01 00:00:00'}, 
+
+0000{'id': 7015906, 'name': 'Wodehouse Trail', 'type': 'Trail', 'summary': 'Adopt me, please!', 'difficulty': 'black', 'stars': 5, 'starVotes': 1, 'location': 'Phuthaditjhaba, South Africa', 'url': 'https://www.hikingproject.com/trail/7015906/wodehouse-trail', 'imgSqSmall': 'https://cdn2.apstatic.com/photos/hike/7013392_sqsmall_1554822556.jpg', 'imgSmall': 'https://cdn2.apstatic.com/photos/hike/7013392_small_1554822556.jpg', 'imgSmallMed': 'https://cdn2.apstatic.com/photos/hike/7013392_smallMed_1554822556.jpg', 'imgMedium': 'https://cdn2.apstatic.com/photos/hike/7013392_medium_1554822556.jpg', 'length': 3.6, 'ascent': 1700, 'descent': -1360, 'high': 7860, 'low': 6385, 'longitude': 28.6201, 'latitude': -28.5044, 'conditionStatus': 'Unknown', 'conditionDetails': None, 'conditionDate': '1970-01-01 00:00:00'}], 'success': 1}, 
+
+{'trails': 
+
+[
+
+{'id': 7029581, 'name': 'Suikerbosrand Trail', 'type': 'Recommended Route', 'summary': 'A great trail with great elevation and some nice and technical hiking.', 'difficulty': 'black', 'stars': 5, 'starVotes': 1, 'location': 'Heidelberg, South Africa', 'url': 'https://www.hikingproject.com/trail/7029581/suikerbosrand-trail', 'imgSqSmall': 'https://cdn2.apstatic.com/photos/hike/7030362_sqsmall_1554926834.jpg', 'imgSmall': 'https://cdn2.apstatic.com/photos/hike/7030362_small_1554926834.jpg', 'imgSmallMed': 'https://cdn2.apstatic.com/photos/hike/7030362_smallMed_1554926834.jpg', 'imgMedium': 'https://cdn2.apstatic.com/photos/hike/7030362_medium_1554926834.jpg', 'length': 11.5, 'ascent': 2181, 'descent': -2182, 'high': 6041, 'low': 5331, 'longitude': 28.2117, 'latitude': -26.4806, 'conditionStatus': 'Unknown', 'conditionDetails': None, 'conditionDate': '1970-01-01 00:00:00'}, 
+
+{'id': 7015094, 'name': 'Ribbok Trail', 'type': 'Trail', 'summary': 'The flagship trail in Golden Gate Highlands.', 'difficulty': 'black', 'stars': 5, 'starVotes': 1, 'location': 'Phuthaditjhaba, South Africa', 'url': 'https://www.hikingproject.com/trail/7015094/ribbok-trail', 'imgSqSmall': 'https://cdn2.apstatic.com/photos/hike/7012191_sqsmall_1554560791.jpg', 'imgSmall': 'https://cdn2.apstatic.com/photos/hike/7012191_small_1554560791.jpg', 'imgSmallMed': 'https://cdn2.apstatic.com/photos/hike/7012191_smallMed_1554560791.jpg', 'imgMedium': 'https://cdn2.apstatic.com/photos/hike/7012191_medium_1554560791.jpg', 'length': 17.1, 'ascent': 3477, 'descent': -3474, 'high': 8398, 'low': 5969, 'longitude': 28.6187, 'latitude': -28.5064, 'conditionStatus': 'Unknown', 'conditionDetails': None, 'conditionDate': '1970-01-01 00:00:00'}, 
+
+000{'id': 7015906, 'name': 'Wodehouse Trail', 'type': 'Trail', 'summary': 'Adopt me, please!', 'difficulty': 'black', 'stars': 5, 'starVotes': 1, 'location': 'Phuthaditjhaba, South Africa', 'url': 'https://www.hikingproject.com/trail/7015906/wodehouse-trail', 'imgSqSmall': 'https://cdn2.apstatic.com/photos/hike/7013392_sqsmall_1554822556.jpg', 'imgSmall': 'https://cdn2.apstatic.com/photos/hike/7013392_small_1554822556.jpg', 'imgSmallMed': 'https://cdn2.apstatic.com/photos/hike/7013392_smallMed_1554822556.jpg', 'imgMedium': 'https://cdn2.apstatic.com/photos/hike/7013392_medium_1554822556.jpg', 'length': 3.6, 'ascent': 1700, 'descent': -1360, 'high': 7860, 'low': 6385, 'longitude': 28.6201, 'latitude': -28.5044, 'conditionStatus': 'Unknown', 'conditionDetails': None, 'conditionDate': '1970-01-01 00:00:00'}, 
+
+{'id': 7036061, 'name': 'Suikerbosrand Loop 1', 'type': 'Trail', 'summary': 'Needs Summary', 'difficulty': 'blue', 'stars': 5, 'starVotes': 1, 'location': 'Heidelberg, South Africa', 'url': 'https://www.hikingproject.com/trail/7036061/suikerbosrand-loop-1', 'imgSqSmall': '', 'imgSmall': '', 'imgSmallMed': '', 'imgMedium': '', 'length': 1.7, 'ascent': 365, 'descent': -373, 'high': 5770, 'low': 5406, 'longitude': 28.2116, 'latitude': -26.4808, 'conditionStatus': 'Unknown', 'conditionDetails': None, 'conditionDate': '1970-01-01 00:00:00'}, 
+
+{'id': 7036063, 'name': 'Suikerbosrand Loop 3', 'type': 'Trail', 'summary': 'Needs Summary', 'difficulty': 'blue', 'stars': 0, 'starVotes': 0, 'location': 'Heidelberg, South Africa', 'url': 'https://www.hikingproject.com/trail/7036063/suikerbosrand-loop-3', 'imgSqSmall': 'https://cdn2.apstatic.com/photos/hike/7030362_sqsmall_1554926834.jpg', 'imgSmall': 'https://cdn2.apstatic.com/photos/hike/7030362_small_1554926834.jpg', 'imgSmallMed': 'https://cdn2.apstatic.com/photos/hike/7030362_smallMed_1554926834.jpg', 'imgMedium': 'https://cdn2.apstatic.com/photos/hike/7030362_medium_1554926834.jpg', 'length': 6.1, 'ascent': 1315, 'descent': -1260, 'high': 6034, 'low': 5446, 'longitude': 28.2031, 'latitude': -26.4776, 'conditionStatus': 'Unknown', 'conditionDetails': None, 'conditionDate': '1970-01-01 00:00:00'}, 
+
+{'id': 7036062, 'name': 'Suikerbosrand Loop 2', 'type': 'Trail', 'summary': 'Needs Summary', 'difficulty': 'greenBlue', 'stars': 0, 'starVotes': 0, 'location': 'Heidelberg, South Africa', 'url': 'https://www.hikingproject.com/trail/7036062/suikerbosrand-loop-2', 'imgSqSmall': '', 'imgSmall': '', 'imgSmallMed': '', 'imgMedium': '', 'length': 3.1, 'ascent': 337, 'descent': -388, 'high': 5666, 'low': 5334, 'longitude': 28.2048, 'latitude': -26.4782, 'conditionStatus': 'Unknown', 'conditionDetails': None, 'conditionDate': '1970-01-01 00:00:00'}], 'success': 1}, {'trails': [], 'success': 1}, {'trails': [], 'success': 1}, {'trails': [], 'success': 1}, {'trails': [], 'success': 1}, {'trails': [], 'success': 1}, 
+
+{'trails': 
+
+[
+
+{'id': 7044000, 'name': 'Climbing To Jumpspeed', 'type': 'Trail', 'summary': 'A short alternate route to the top of Jump to Light Speed.', 'difficulty': 'blue', 'stars': 3, 'starVotes': 1, 'location': 'Mogoditshane, Botswana', 'url': 'https://www.hikingproject.com/trail/7044000/climbing-to-jumpspeed', 'imgSqSmall': '', 'imgSmall': '', 'imgSmallMed': '', 'imgMedium': '', 'length': 0.5, 'ascent': 79, 'descent': 0, 'high': 3658, 'low': 3579, 'longitude': 25.8542, 'latitude': -24.6962, 'conditionStatus': 'Unknown', 'conditionDetails': None, 'conditionDate': '1970-01-01 00:00:00'}
+
+
+], 
+
+'success': 1}]
