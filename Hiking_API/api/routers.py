@@ -7,6 +7,6 @@ from rest_framework import routers
 router = routers.DefaultRouter()
 router.register('UserTrails', TrailsViews.UserCompletedTrailsListView)
 router.register('users', userStatsView.UserStatsListView)
+router.register('favourites', FavouriteViews.FavouriteTrailsView)
 # TODO:
-# router.register('favourites', FvaouriteViews.PostsViewSet)
 # router.register('later', LaterViews.LikesViewSet)
