@@ -7,3 +7,8 @@ class UserStatsSerializer(ModelSerializer):
     class Meta:
         model = UserStats
         fields = ['UID']
+
+class UsersSerializer(HyperlinkedModelSerializer):
+    class Meta:
+        model = UserStats
+        fields = ['UID']

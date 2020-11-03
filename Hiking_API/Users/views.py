@@ -12,3 +12,4 @@ class UserStatsListView(viewsets.ModelViewSet):
     queryset = UserStats.objects.all()
     serializer_class = UserStatsSerializer
     permission_classes = [permissions.IsAuthenticated]
+
