@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'Users.apps.UsersConfig',
     'Trails.apps.TrailsConfig',
+    'Later.apps.LaterConfig',
     'Favourites.apps.FavouritesConfig'
 ]
 
