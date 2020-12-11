@@ -5,7 +5,7 @@ from Users import views as userStatsView
 from rest_framework import routers
 
 router = routers.DefaultRouter()
-router.register('Trails', TrailsViews.UserCompletedTrailsListView)
+router.register('Trails', TrailsViews.Trails)
 router.register('UserStats', userStatsView.UserStatsListView)
 router.register('Favourites', FavouriteViews.FavouriteTrailsView)
 # TODO:
