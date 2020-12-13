@@ -5,4 +5,4 @@ from rest_framework import serializers
 class FavouriteTrailsSerializer(serializers.ModelSerializer):
     class Meta:
         model = FavouriteTrails
-        fields = ('trail_id', 'user_id')
+        fields = '__all__'

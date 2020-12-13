@@ -1,0 +1,29 @@
+POST http://127.0.0.1:8000/api/Favourites/
+Content-Type: application/json
+Authorization: Basic admin:admin
+
+{
+    "trail_id": "1",
+    "user_id": "4"
+}
+
+###
+
+GET http://127.0.0.1:8000/api/Favourites
+Authorization: Basic admin:admin
+
+###
+
+PUT http://127.0.0.1:8000/api/Favourites/3/
+Content-Type: application/json
+Authorization: Basic admin:admin
+
+{
+    "trail_id": "6",
+    "user_id": "7"
+}
+
+###
+
+DELETE http://127.0.0.1:8000/api/Favourites/2/
+Authorization: Basic admin:admin
